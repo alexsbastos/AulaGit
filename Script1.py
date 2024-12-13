@@ -6,3 +6,5 @@ Created on Thu Dec 12 21:31:41 2024
 """
 
 Versão 1
+
+Versão 2
